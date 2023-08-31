@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url("../../images/stars.gif");
+    background-size: cover;
+    min-height: 100vh;
+    background-repeat: repeat;
+}
